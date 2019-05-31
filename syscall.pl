@@ -1,4 +1,4 @@
-sanchuse POSIX;
+use POSIX;
 use SDBM_File;
 
 	my %dbm;
